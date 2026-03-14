@@ -5,7 +5,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 TOKEN = "8639952027:AAHynrk6bmWEPI1pv2JX3dyVUNDTvgbFDqo"
 
 # CHANNEL USERNAME
-CHANNEL_ID = "@moviestream_PS"
+CHANNEL_ID = "@moviestreamTV_PS"
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
