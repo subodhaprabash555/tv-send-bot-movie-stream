@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # BOT TOKEN
-TOKEN = "8675108417:AAFIrkLl-fit8GGMXmjrOrfGkhaQHRwEXts"
+TOKEN = "8639952027:AAHynrk6bmWEPI1pv2JX3dyVUNDTvgbFDqo"
 
 # CHANNEL USERNAME
 CHANNEL_ID = "@moviestream_PS"
